@@ -1,0 +1,37 @@
+MXFEM:
+
+ Func-count     x          f(x)         Procedure
+    1      -0.370815 -2.44241e-007        initial
+    2       0.370815 -2.44688e-007        golden
+    3       0.829167 -3.31688e-008        golden
+    4    0.000783198 -3.49505e-007        parabolic
+    5    0.000394795 -3.49872e-007        parabolic
+    6      -0.141395 -3.38831e-007        golden
+    7     -0.0650926 -3.33431e-007        parabolic
+    8     -0.0246192 -3.37866e-007        golden
+    9    -0.00915968 -3.43936e-007        golden
+   10    -0.00241148 -3.48274e-007        parabolic
+   11   -0.000408065 -3.49859e-007        parabolic
+   12   3.41911e-006 -3.51811e-007        parabolic
+   13  -5.96274e-006 -3.51835e-007        parabolic
+   14   -0.000159552 -3.50115e-007        golden
+   15  -1.65092e-005 -3.51927e-007        parabolic
+   16  -7.11467e-005 -3.50211e-007        golden
+   17  -3.73789e-005 -3.50249e-007        golden
+   18  -2.44807e-005 -3.50264e-007        golden
+   19  -1.24808e-005 -3.51871e-007        golden
+   20  -1.95540e-005 -3.50270e-007        golden
+   21  -1.49705e-005 -3.51900e-007        golden
+   22  -1.76722e-005 -3.51756e-007        golden
+   23  -1.59214e-005 -3.51916e-007        golden
+   24  -1.69534e-005 -3.51938e-007        golden
+   25  -1.72867e-005 -3.51946e-007        golden
+ 
+Optimization terminated:
+ the current x satisfies the termination criteria using OPTIONS.TolX of 1.000000e-006 
+
+theta =
+ -1.7287e-005
+
+Theoretical:
+theta = 0

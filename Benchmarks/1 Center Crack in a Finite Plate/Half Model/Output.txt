@@ -1,0 +1,7 @@
+MXFEM Output:
+KI  = 1.8628
+KII = 0.0026
+
+Theoretical Values:
+KI  = 1.9007
+KII = 0;
